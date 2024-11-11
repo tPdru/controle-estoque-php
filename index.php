@@ -12,16 +12,57 @@
 <!--como fazer menu-->
 	<header>
 		<img src="imagens/logo.png" alt="logo">
-		<nav>
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+			<div class="container-fluid">
 			<ul>
 				<li><a href="#">Home</li>
 				<li><a href="#">Produtos</li>
 				<li><a href="#">Fornecedores</li>
 				<li><a href="#">ategorias</li>
 			</ul>
+			</div>
 		</nav>
 	</header>
 		<main class="container">
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
+		<h2>Conteúdos</h2>
 		<h2>Conteúdos</h2>
 	</main>
 	<footer>
