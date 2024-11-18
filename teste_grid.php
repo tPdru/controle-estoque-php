@@ -12,7 +12,7 @@
         <div class="row justfy-content-md-center">
             <div class="col-md-auto"><img src="imagens/logotipo.png" alt="Logo"> </div>
             <div class="col col-lg-2">Patrulia Canina</div>
-            <div class="col">
+            <div class="col-md-auto">
                 <nav>
                     <ul>
                         <li>Home</li>
